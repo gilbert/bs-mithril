@@ -1,0 +1,13 @@
+{
+  "main": "App.js",
+  "private": true,
+  "scripts": {
+    "build": "bsb -make-world",
+    "start": "bsb -make-world -w",
+    "clean-build": "bsb -clean-world -make-world"
+  },
+  "dependencies": {
+    "bs-mithril": "^0.1.0",
+    "bs-platform": "^2.1.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "test-app",
+  "bsc-flags": ["-bs-super-errors"],
+  "bs-dependencies": ["bs-mithril"],
+  "sources": "re",
+  "refmt": 3
+}

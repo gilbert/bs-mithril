@@ -1,0 +1,27 @@
+{
+  "name": "bs-mithril",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "bsb -make-world",
+    "start": "bsb -make-world -w",
+    "clean-build": "bsb -clean-world -make-world"
+  },
+  "license": "MIT",
+  "keywords": [
+    "reason",
+    "reasonml",
+    "bucklescript",
+    "mithril"
+  ],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gilbert/bs-mithril.git"
+  },
+  "devDependencies": {
+    "bs-platform": "^2.1.0"
+  },
+  "peerDependencies": {
+    "mithril": "^1.1.6"
+  }
+}

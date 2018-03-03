@@ -1,0 +1,8 @@
+{
+  "name": "bs-mithril",
+  "bsc-flags": ["-bs-super-errors"],
+  "refmt": 3,
+  "bs-dependencies": [],
+  "namespace": true,
+  "sources": "src"
+}
